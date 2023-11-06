@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/fad394d48eef73d55dc8ca6bce407f01/tumblr_o5a5r9Z9O71tvppquo1_1280.gif)
+![MasterHead](https://64.media.tumblr.com/fad394d48eef73d55dc8ca6bce407f01/tumblr_o5a5r9Z9O71tvppquo1_1280.gif)
 <h1 align="center">Hi 👋, I'm Lemuel Benitez</h1>
 <h3 align="center">A passionate "FullStack Developer". A professional "Jack of All Trades" 👨🏽‍💻</h3>
 
