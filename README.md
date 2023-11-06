@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Lemuel Benitez</h1>
 <h3 align="center">A passionate "FullStack Developer". A professional "Jack of All Trades" 👨🏽‍💻</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemuelbenitez&label=Profile%20views&color=0e75b6&style=flat" alt="lemuelbenitez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemuelbenitez&label=Profile%20views&color=0e75b6&style=flat" alt="lemuelbenitez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemuelbenitez" alt="lemuelbenitez" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemuelbenitez" alt="lemuelbenitez" /></a> </p> -->
 
 <img align="right" style="width: 30rem;" src= "https://i.redd.it/thj41ymmh0351.gif"/>
 
