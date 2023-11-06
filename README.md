@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Lemuel Benitez</h1>
 <h3 align="center">A passionate "FullStack Developer". A professional "Jack of All Trades" 👨🏽‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lemuelbenitez&label=Profile%20views&color=0e75b6&style=flat" alt="lemuelbenitez" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemuelbenitez&label=Profile%20views&color=0e75b6&style=flat" alt="lemuelbenitez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemuelbenitez" alt="lemuelbenitez" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lemuelbenitez" alt="lemuelbenitez" /></a> </p> -->
+
+<img align="right" style="width: 30rem;" src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dezrmu4-0b463d5d-1c1f-463b-909b-6951227567a5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV6cm11NC0wYjQ2M2Q1ZC0xYzFmLTQ2M2ItOTA5Yi02OTUxMjI3NTY3YTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-vGTqcqLHyF_CBArxzrsOjtFV55EIjY2pxyEDVPrmBo"/>
 
 - 🔭 I’m currently working on **Self Development and Expansion of my Technical Expertise**
 
