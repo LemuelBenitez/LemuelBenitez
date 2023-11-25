@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **React, Redux, Spring or SpringBoot**
 
-- 📫 How to reach me **lemuel.benitez@gmail.com**
+-  For my work History and-or to contact me <a href="https://www.linkedin.com/in/lemuelbenitez/">Click Here <a/>
 
 - ⚡ Fun fact **I love to play chess !**
 
