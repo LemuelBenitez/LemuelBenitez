@@ -10,11 +10,9 @@
 
 - 🔭 I’m currently working on **Self Development and Expansion of my Technical Expertise**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m continuously expanding on my **FullStack skills and learning upto date technology**
 
-- 👯 I’m looking to collaborate on **Any project that is challenging or has a positive impact on others.**
-
-- 🤝 I’m looking for help with **Nothing at the moment, but I am always open to critique or advice. 👀**
+- 👯 I’m looking to collaborate on **Any project that is challenging or provides me with the opportunity to network & collaborate with others.**
 
 - 💬 Ask me about **React, Redux, Spring or SpringBoot**
 
