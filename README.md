@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Any project that is challenging or provides me with the opportunity to network & collaborate with others.**
 
-- 💬 Ask me about **React, Redux, Spring or SpringBoot**
+- 💬 Ask me about **React, AWS , Spring or SpringBoot**
 
 -  For my work History and-or to contact me <a href="https://www.linkedin.com/in/lemuelbenitez/">Click Here <a/>
 
